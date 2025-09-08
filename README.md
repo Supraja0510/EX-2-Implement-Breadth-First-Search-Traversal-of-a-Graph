@@ -92,4 +92,4 @@ BFS Traversal Order: ['A', 'B', 'C']
 
 
 ### Result:
-Thus, The program executed successfully
+Thus, The program is successfully executed
